@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - ✍ Writing On [少数派](https://sspai.com/u/100gle/updates)
+
+[![@100gle Astro contributions](https://astro.badg.es/v1/contributor/100gle.svg)](https://astro.badg.es/v1/contributor/100gle/)
